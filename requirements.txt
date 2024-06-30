@@ -1,6 +1,6 @@
+Pillow
 streamlit
 tensorflow
-Pillow
 numpy
 pandas
 
