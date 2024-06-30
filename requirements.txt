@@ -1,5 +1,5 @@
-streamlit==1.10.0
-tensorflow==2.8.0
+streamlit
+tensorflow
 Pillow
 numpy<2.0.0
 pandas
